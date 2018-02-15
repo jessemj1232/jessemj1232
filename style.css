@@ -1,5 +1,9 @@
+html{
+  background-color:grey;
+}
 body {
   padding-top:10px;
+  
 }
 .vrLine {
   border-right: solid black 1px;
