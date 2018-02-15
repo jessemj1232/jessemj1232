@@ -1,0 +1,35 @@
+body {
+  padding-top:10px;
+}
+.vrLine {
+  border-right: solid black 1px;
+  height:270px;
+}
+#proPic {
+  border-radius:50%;
+  width: 40%;
+  float:right;
+}
+.aboutMe {
+  padding-bottom:30px;
+  border-bottom:solid black 5px;
+  margin-bottom:50px;
+
+}
+footer {
+  background-color:black;
+  padding-top:25px;
+  width:100%;
+}
+#myWorkLink  {
+  color:black;
+  text-decoration:none;
+}
+#allAboutYaBoi  {
+  color:black;
+  text-decoration:none;
+}
+#contactMeBro  {
+  color:black;
+  text-decoration:none;
+}
